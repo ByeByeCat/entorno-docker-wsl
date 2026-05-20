@@ -249,37 +249,61 @@ git push -u origin main
 
 ## Ubuntu en WSL2
 
+<<<<<<< HEAD
 ![Ubuntu](screenshots/ubuntu.jpg)
+=======
+![Ubuntu](screenshots/ubuntu.jpeg)
+>>>>>>> 33fd25b (Corregidas capturas JPEG)
 
 ---
 
 ## Docker Compose funcionando
 
+<<<<<<< HEAD
 ![Docker PS](screenshots/dockerps.jpg)
+=======
+![Docker PS](screenshots/dockerps.jpeg)
+>>>>>>> 33fd25b (Corregidas capturas JPEG)
 
 ---
 
 ## Contenedores levantados
 
+<<<<<<< HEAD
 ![Contenedores](screenshots/dockerps_levantados.jpg)
+=======
+![Contenedores](screenshots/dockerps_levantados.jpeg)
+>>>>>>> 33fd25b (Corregidas capturas JPEG)
 
 ---
 
 ## Servidor Nginx
 
+<<<<<<< HEAD
 ![Nginx](screenshots/nginx.jpg)
+=======
+![Nginx](screenshots/nginx.jpeg)
+>>>>>>> 33fd25b (Corregidas capturas JPEG)
 
 ---
 
 ## pgAdmin 4
 
+<<<<<<< HEAD
 ![pgAdmin](screenshots/pgadmin.jpg)
+=======
+![pgAdmin](screenshots/pgadmin.jpeg)
+>>>>>>> 33fd25b (Corregidas capturas JPEG)
 
 ---
 
 ## Jupyter Lab
 
+<<<<<<< HEAD
 ![Jupyter](screenshots/jupyter.jpg)
+=======
+![Jupyter](screenshots/jupyter.jpeg)
+>>>>>>> 33fd25b (Corregidas capturas JPEG)
 
 ---
 
